@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	padding: 20px;
+	background-color: #000;
+	color: #fff;
+}
+
+.componente {
+	background-color: #444;
+	padding: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #fff;
+	border-radius: 10px;
+}
+
+.titulo {
+	background-color: rgb(53, 143, 113);
+	padding: 2px;
+}
+
+.texto {
+	padding: 5px;
+}
