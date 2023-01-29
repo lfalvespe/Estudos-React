@@ -1,0 +1,15 @@
+
+body {
+	font-size: 1.2em
+}
+.componente {
+	background-color: #444;
+	color: white;
+	padding: 10px;
+	margin-bottom: 5px;
+	border-radius: 10px;
+}
+
+.titulo {
+	background-color: #abab;
+}
